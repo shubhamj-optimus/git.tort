@@ -11,7 +11,7 @@ public class Point {
 	System.out.println(p.x+"--"+p.y);
 	swapValues(p);
 	System.out.println(p.x+"--"+p.y);
-	
+	//demo test
 	}
 	
 	public static void swapValues(Point p)
